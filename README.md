@@ -62,4 +62,8 @@ Now you can just make it fullscreen and chat with friends!!!
 
 Thank you for using this Repo!
 
+If you were having trouble you can simply click this:
+
+[![Run on Repl.it](https://repl.it/badge/github/CodingMaster605/live-chat)](https://repl.it/github/CodingMaster605/live-chat)
+
 ## Bye!
