@@ -6,8 +6,6 @@ const messages = document.getElementById('messages');
 const send = document.getElementById('send'); 
 const text = document.getElementById('text');
 
-alert("hello")
-
 chat.style.display = 'none';
 
 form.addEventListener('submit', (e) => {
